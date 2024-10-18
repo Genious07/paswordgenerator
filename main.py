@@ -69,7 +69,7 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.markdown("Developed with ❤️ using [Streamlit](https://streamlit.io/)")
+    st.markdown("Developed with ❤️ by satwik")
 
 
 if __name__ == "__main__":
